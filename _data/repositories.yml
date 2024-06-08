@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - weitunglin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - weitunglin/pixmamba
+  - weitunglin/ars408_ros
+  - weitunglin/fastsql
+  - weitunglin/ntuadlhw3
+  - weitunglin/personalized_segment_anything
+  - weitunglin/multispectral-yolov7
+  - weitunglin/blif_parser 
+  - weitunglin/amusementPark
+  - weitunglin/waterSurface

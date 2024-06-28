@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Wei-Tung Lin",
-    "label": "grad. student",
+    "label": "cs grad. student",
     "image": "",
     "email": "weitung8@gmail.com",
     "url": "https://weitunglin.github.io",
-    "summary": "A grad student major in CS, loves deep learning",
+    "summary": "loves deep learning",
     "location": {
       "city": "Taipei",
       "countryCode": "Taiwan"
@@ -19,7 +19,11 @@
       "startDate": "2021-09-01",
       "endDate": "",
       "summary": "Worked on several industry collaboration deep learning projects, including computer vision, multi-modal learning, and autonomous driving.",
-      "highlights": ["Deep learning (computer vision) research", "Industry collaboration", "Teaching assistant"]
+      "highlights": [
+        "Deep learning (computer vision) research",
+        "Industry collaboration",
+        "Teaching assistant"
+      ]
     }
   ],
   "education": [
